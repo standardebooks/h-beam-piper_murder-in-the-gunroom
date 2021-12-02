@@ -46,7 +46,7 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/17866</dc:source>
-		<dc:source>"https://catalog.hathitrust.org/Record/102290428"</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/102290428</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-beam-piper_murder-in-the-gunroom</meta>
@@ -58,7 +58,6 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Frank Edwin Scott</dc:contributor>
 		<meta property="file-as" refines="#artist">Scott, Frank Edwin</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://americanart.si.edu/artist/frank-edwin-scott-4344</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81081941</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>

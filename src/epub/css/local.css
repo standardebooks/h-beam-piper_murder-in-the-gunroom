@@ -3,8 +3,7 @@
 
 /* All dedications */
 section[epub|type~="dedication"]{
-	text-align: justify;
-	text-indent: 0;
+	text-align: center;
 }
 
 section[epub|type~="dedication"] > *{
@@ -12,12 +11,6 @@ section[epub|type~="dedication"] > *{
 	margin: auto;
 	margin-top: 3em;
 	max-width: 80%;
-}
-
-section[epub|type~="dedication"] p{
-	margin: 0 auto 0 auto;
-	text-indent: 0;
-	text-align: justify;
 }
 
 @supports(display: flex){
@@ -36,3 +29,11 @@ section[epub|type~="dedication"] p{
 	}
 }
 /* End all dedications */
+
+#dedication br:nth-of-type(1){
+	line-height: 3em;
+}
+
+#dedication br:nth-of-type(2){
+	line-height: 2em;
+}

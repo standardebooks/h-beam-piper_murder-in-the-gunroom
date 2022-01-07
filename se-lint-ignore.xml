@@ -6,12 +6,6 @@
 			<reason>Preserving speech style</reason>
 		</ignore>
 	</file>
-	<file path="dedication.xhtml">
-		<ignore>
-			<code>t-057</code>
-			<reason>Preserving original dedication style</reason>
-		</ignore>
-	</file>
 	<file path="chapter-10.xhtml">
 		<ignore>
 			<code>s-045</code>

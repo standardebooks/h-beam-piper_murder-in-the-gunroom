@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-11.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-024</code>
 			<reason>Preserving speech style</reason>
 		</ignore>
 	</file>

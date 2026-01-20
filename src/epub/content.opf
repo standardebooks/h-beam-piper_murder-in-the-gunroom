@@ -47,7 +47,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/17866</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102290428</dc:source>
-		<meta property="se:word-count">69272</meta>
+		<meta property="se:word-count">67199</meta>
 		<meta property="se:reading-ease.flesch">74.08</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-beam-piper_murder-in-the-gunroom</meta>
 		<dc:creator id="author">H. Beam Piper</dc:creator>

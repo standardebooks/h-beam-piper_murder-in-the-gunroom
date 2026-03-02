@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-10.xhtml">
-		<ignore>
-			<code>s-045</code>
+		<ignore code="s-045">
 			<reason>Codes written by character</reason>
 		</ignore>
-		<ignore>
-			<code>t-032</code>
+		<ignore code="t-032">
 			<reason>Codes written by character</reason>
 		</ignore>
 	</file>
 	<file path="chapter-11.xhtml">
-		<ignore>
-			<code>y-024</code>
+		<ignore code="y-024">
 			<reason>Preserving speech style</reason>
 		</ignore>
 	</file>
 	<file path="chapter-14.xhtml">
-		<ignore>
-			<code>t-030</code>
+		<ignore code="t-030">
 			<reason>Product name (Associated Press)</reason>
 		</ignore>
 	</file>

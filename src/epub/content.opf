@@ -41,7 +41,7 @@
 		<meta property="term" refines="#subject-3">sh2008107179</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Mystery</meta>
-		<dc:abstract>A private detective is called upon to evaluate a gun collection that contains a dark secret.</dc:abstract>
+		<meta property="schema:abstract">A private detective is called upon to evaluate a gun collection that contains a dark secret.</meta>
 		<dc:description>
 			&lt;p&gt;Jeff Rand, a private detective, is skeptical when he is employed by Gladys Fleming to evaluate her recently acquired gun collection, which happens to contain a dark secret. The more facts he uncovers, the more interesting the story becomes. Gun dealers, butlers, wives and cops all become suspects in the investigation of a mysterious death. The book is rich with detailed descriptions of the many different guns that star in this tale. This is the only murder-mystery written by &lt;a href="https://standardebooks.org/ebooks/h-beam-piper"&gt;Piper&lt;/a&gt;, who was mostly known for his science fiction novels.&lt;/p&gt;
 		</dc:description>
